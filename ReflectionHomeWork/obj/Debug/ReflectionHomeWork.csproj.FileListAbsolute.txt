@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.exe.config
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.exe
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.pdb
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.exe
+C:\Users\user1\source\repos\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.pdb
